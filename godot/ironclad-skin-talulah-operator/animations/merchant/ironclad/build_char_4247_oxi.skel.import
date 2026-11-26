@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://dgbnpcnj8rct6"
+path="res://.godot/imported/build_char_4247_oxi.skel-19913d2fa1ea44c9475d76383dda6966.spskel"
+
+[deps]
+
+source_file="res://animations/merchant/ironclad/build_char_4247_oxi.skel"
+dest_files=["res://.godot/imported/build_char_4247_oxi.skel-19913d2fa1ea44c9475d76383dda6966.spskel"]
+
+[params]
+

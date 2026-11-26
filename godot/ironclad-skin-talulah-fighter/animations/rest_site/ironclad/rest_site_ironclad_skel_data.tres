@@ -1,0 +1,9 @@
+[gd_resource type="SpineSkeletonDataResource" load_steps=3 format=3 uid="uid://b8nbwey4uwrqk"]
+
+[ext_resource type="SpineAtlasResource" uid="uid://dcheif7wkqbnu" path="res://animations/characters/ironclad/enemy_3002_ftrtal.atlas" id="2"]
+[ext_resource type="SpineSkeletonFileResource" uid="uid://ccl8cy2tqstn1" path="res://animations/characters/ironclad/enemy_3002_ftrtal.skel" id="2_4r8pk"]
+
+[resource]
+atlas_res = ExtResource("2")
+skeleton_file_res = ExtResource("2_4r8pk")
+default_mix = 0.2

@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://bti7i6y88dcmq"
+path="res://.godot/imported/char_4244_tocka.skel-6d9acfbdd540bf4c9abbac13aa1fe54a.spskel"
+
+[deps]
+
+source_file="res://animations/characters/fool/char_4244_tocka.skel"
+dest_files=["res://.godot/imported/char_4244_tocka.skel-6d9acfbdd540bf4c9abbac13aa1fe54a.spskel"]
+
+[params]
+

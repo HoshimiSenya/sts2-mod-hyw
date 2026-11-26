@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://cvxsixfyjspgm"
+path="res://.godot/imported/char_377_gdglow_summer_12.atlas-5963a6945c8edfe407280c81b77b709e.spatlas"
+
+[deps]
+
+source_file="res://animations/characters/defect/char_377_gdglow_summer_12.atlas"
+dest_files=["res://.godot/imported/char_377_gdglow_summer_12.atlas-5963a6945c8edfe407280c81b77b709e.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

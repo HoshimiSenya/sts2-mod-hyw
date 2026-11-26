@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://mgvxtkbiain8"
+path="res://.godot/imported/build_char_377_gdglow_summer_12.atlas-0ef09d793f49c604e13489bcb30596cd.spatlas"
+
+[deps]
+
+source_file="res://animations/merchant/defect/build_char_377_gdglow_summer_12.atlas"
+dest_files=["res://.godot/imported/build_char_377_gdglow_summer_12.atlas-0ef09d793f49c604e13489bcb30596cd.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

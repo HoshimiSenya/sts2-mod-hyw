@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://d2j8wyfnnyut1"
+path="res://.godot/imported/char_391_rosmon_sale_16.atlas-99b09ddd196af04371ce08c50dada70d.spatlas"
+
+[deps]
+
+source_file="res://animations/characters/regent/char_391_rosmon_sale_16.atlas"
+dest_files=["res://.godot/imported/char_391_rosmon_sale_16.atlas-99b09ddd196af04371ce08c50dada70d.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

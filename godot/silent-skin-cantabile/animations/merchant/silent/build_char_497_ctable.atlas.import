@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://87fvx87m4eun"
+path="res://.godot/imported/build_char_497_ctable.atlas-e98f5195d22411fe41fc25e5809816a8.spatlas"
+
+[deps]
+
+source_file="res://animations/merchant/silent/build_char_497_ctable.atlas"
+dest_files=["res://.godot/imported/build_char_497_ctable.atlas-e98f5195d22411fe41fc25e5809816a8.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

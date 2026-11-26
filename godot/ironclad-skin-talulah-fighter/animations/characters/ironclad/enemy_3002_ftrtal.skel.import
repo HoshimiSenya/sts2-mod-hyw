@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://ccl8cy2tqstn1"
+path="res://.godot/imported/enemy_3002_ftrtal.skel-fb73d9dab4a7db38a247bc64d391245f.spskel"
+
+[deps]
+
+source_file="res://animations/characters/ironclad/enemy_3002_ftrtal.skel"
+dest_files=["res://.godot/imported/enemy_3002_ftrtal.skel-fb73d9dab4a7db38a247bc64d391245f.spskel"]
+
+[params]
+

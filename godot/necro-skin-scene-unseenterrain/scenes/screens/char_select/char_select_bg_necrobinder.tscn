@@ -1,0 +1,29 @@
+[gd_scene load_steps=2 format=3 uid="uid://m6la1ur5ce5q"]
+
+[ext_resource type="Texture2D" uid="uid://hufa17bfraud" path="res://animations/character_select/necrobinder/Scene.png" id="1"]
+
+[node name="CharSelectBgNecrobinder" type="Control"]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -960.0
+offset_top = -521.0
+offset_right = 1600.0
+offset_bottom = 679.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(1280, 600)
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = -2693.0
+offset_top = -702.0
+offset_right = 183.78809
+offset_bottom = 426.46997
+scale = Vector2(2.545, 2.545)
+texture = ExtResource("1")
+expand_mode = 2
+stretch_mode = 5

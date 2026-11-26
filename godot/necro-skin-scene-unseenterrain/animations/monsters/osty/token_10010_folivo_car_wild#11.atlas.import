@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://u6o7reaqdsr8"
+path="res://.godot/imported/token_10010_folivo_car_wild#11.atlas-0f091632cabb1d277f8b44c73ec98ae2.spatlas"
+
+[deps]
+
+source_file="res://animations/monsters/osty/token_10010_folivo_car_wild#11.atlas"
+dest_files=["res://.godot/imported/token_10010_folivo_car_wild#11.atlas-0f091632cabb1d277f8b44c73ec98ae2.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

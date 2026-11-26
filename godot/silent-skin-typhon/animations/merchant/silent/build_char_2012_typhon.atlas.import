@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://bwd4ceujokm3u"
+path="res://.godot/imported/build_char_2012_typhon.atlas-df1ee4dbf1a38b7c4bec4c70b5e34915.spatlas"
+
+[deps]
+
+source_file="res://animations/merchant/silent/build_char_2012_typhon.atlas"
+dest_files=["res://.godot/imported/build_char_2012_typhon.atlas-df1ee4dbf1a38b7c4bec4c70b5e34915.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

@@ -1,0 +1,160 @@
+
+token_10010_folivo_car_wild#11.png
+size: 1184,1184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_G_Board
+  rotate: true
+  xy: 680, 56
+  size: 128, 192
+  orig: 128, 192
+  offset: 0, 0
+  index: -1
+F_G_Body
+  rotate: false
+  xy: 16, 368
+  size: 744, 248
+  orig: 744, 248
+  offset: 0, 0
+  index: -1
+F_G_Eye1
+  rotate: false
+  xy: 496, 184
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+F_G_Eye2
+  rotate: false
+  xy: 432, 32
+  size: 128, 136
+  orig: 128, 136
+  offset: 0, 0
+  index: -1
+F_G_Gang1
+  rotate: false
+  xy: 1056, 856
+  size: 80, 160
+  orig: 80, 160
+  offset: 0, 0
+  index: -1
+F_G_Gang2
+  rotate: false
+  xy: 1048, 616
+  size: 112, 160
+  orig: 112, 160
+  offset: 0, 0
+  index: -1
+F_G_Gang3
+  rotate: false
+  xy: 912, 200
+  size: 216, 120
+  orig: 216, 120
+  offset: 0, 0
+  index: -1
+F_G_Head
+  rotate: false
+  xy: 16, 624
+  size: 552, 392
+  orig: 552, 392
+  offset: 0, 0
+  index: -1
+F_G_Headline
+  rotate: true
+  xy: 16, 32
+  size: 96, 136
+  orig: 96, 136
+  offset: 0, 0
+  index: -1
+F_G_L_Arm
+  rotate: true
+  xy: 256, 184
+  size: 168, 224
+  orig: 168, 224
+  offset: 0, 0
+  index: -1
+F_G_L_Armball
+  rotate: true
+  xy: 1016, 376
+  size: 160, 152
+  orig: 160, 152
+  offset: 0, 0
+  index: -1
+F_G_L_Ear
+  rotate: false
+  xy: 1088, 40
+  size: 40, 144
+  orig: 40, 144
+  offset: 0, 0
+  index: -1
+F_G_ROB_A
+  rotate: true
+  xy: 256, 24
+  size: 152, 160
+  orig: 152, 160
+  offset: 0, 0
+  index: -1
+F_G_ROB_B
+  rotate: false
+  xy: 824, 792
+  size: 216, 224
+  orig: 216, 224
+  offset: 0, 0
+  index: -1
+F_G_ROB_C
+  rotate: true
+  xy: 576, 640
+  size: 120, 216
+  orig: 120, 216
+  offset: 0, 0
+  index: -1
+F_G_ROB_D
+  rotate: false
+  xy: 824, 552
+  size: 216, 224
+  orig: 216, 224
+  offset: 0, 0
+  index: -1
+F_G_ROF_A
+  rotate: true
+  xy: 912, 24
+  size: 152, 160
+  orig: 152, 160
+  offset: 0, 0
+  index: -1
+F_G_ROF_B
+  rotate: true
+  xy: 776, 328
+  size: 216, 224
+  orig: 216, 224
+  offset: 0, 0
+  index: -1
+F_G_ROF_C
+  rotate: true
+  xy: 680, 192
+  size: 120, 216
+  orig: 120, 216
+  offset: 0, 0
+  index: -1
+F_G_ROF_D
+  rotate: true
+  xy: 16, 144
+  size: 216, 224
+  orig: 216, 224
+  offset: 0, 0
+  index: -1
+F_G_R_Arm
+  rotate: true
+  xy: 576, 776
+  size: 240, 232
+  orig: 240, 232
+  offset: 0, 0
+  index: -1
+F_G_R_Ear
+  rotate: false
+  xy: 568, 32
+  size: 40, 144
+  orig: 40, 144
+  offset: 0, 0
+  index: -1

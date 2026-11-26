@@ -1,0 +1,8 @@
+[gd_resource type="SpineSkeletonDataResource" load_steps=3 format=3 uid="uid://dsmda180v3whr"]
+
+[ext_resource type="SpineAtlasResource" uid="uid://u6o7reaqdsr8" path="res://animations/monsters/osty/token_10010_folivo_car_wild#11.atlas" id="1"]
+[ext_resource type="SpineSkeletonFileResource" uid="uid://sq5iqojiygwj" path="res://animations/monsters/osty/token_10010_folivo_car_wild#11.skel" id="2"]
+
+[resource]
+atlas_res = ExtResource("1")
+skeleton_file_res = ExtResource("2")

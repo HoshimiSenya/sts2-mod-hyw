@@ -1,0 +1,8 @@
+[gd_resource type="SpineSkeletonDataResource" load_steps=3 format=3 uid="uid://dn8kpo0epnqwj"]
+
+[ext_resource type="SpineAtlasResource" uid="uid://d2j8wyfnnyut1" path="res://animations/characters/regent/char_391_rosmon_sale_16.atlas" id="1_s1drc"]
+[ext_resource type="SpineSkeletonFileResource" uid="uid://b07o3pcmj1qgn" path="res://animations/characters/regent/char_391_rosmon_sale_16.skel" id="2_2c4rb"]
+
+[resource]
+atlas_res = ExtResource("1_s1drc")
+skeleton_file_res = ExtResource("2_2c4rb")

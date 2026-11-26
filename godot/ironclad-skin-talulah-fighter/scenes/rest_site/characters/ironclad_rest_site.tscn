@@ -1,0 +1,58 @@
+[gd_scene load_steps=4 format=3 uid="uid://dhi7t25ipi55r"]
+
+[ext_resource type="Script" uid="uid://b64aobp5wi2hq" path="res://src/Core/Nodes/RestSite/NRestSiteCharacter.cs" id="1"]
+[ext_resource type="SpineSkeletonDataResource" uid="uid://b8nbwey4uwrqk" path="res://animations/rest_site/ironclad/rest_site_ironclad_skel_data.tres" id="2"]
+[ext_resource type="PackedScene" uid="uid://4glfj7kpgrxi" path="res://scenes/ui/selection_reticle.tscn" id="3"]
+
+[node name="IroncladRestSite" type="Node2D"]
+script = ExtResource("1")
+
+[node name="SpineSprite" type="SpineSprite" parent="."]
+position = Vector2(1.315779, 1.0728836e-06)
+scale = Vector2(1.3, 1.3)
+skeleton_data_res = ExtResource("2")
+preview_skin = "Default"
+preview_animation = "glory_loop"
+preview_frame = false
+preview_time = 0.0
+
+[node name="ControlRoot" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -53.0
+offset_top = -239.00002
+offset_right = -53.0
+offset_bottom = -239.00002
+scale = Vector2(0.8828269, 0.80061656)
+
+[node name="SelectionReticle" parent="ControlRoot" instance=ExtResource("3")]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = -153.0
+offset_top = -350.0
+offset_right = 267.0
+offset_bottom = 320.0
+
+[node name="Hitbox" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_left = -155.0
+offset_top = -351.0
+offset_right = 266.0
+offset_bottom = 332.0
+
+[node name="ThoughtBubbleRight" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_left = 218.209
+offset_top = -231.997
+offset_right = 218.209
+offset_bottom = -231.997
+
+[node name="ThoughtBubbleLeft" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_left = -117.6836
+offset_top = -231.99701
+offset_right = -117.6836
+offset_bottom = -231.99701

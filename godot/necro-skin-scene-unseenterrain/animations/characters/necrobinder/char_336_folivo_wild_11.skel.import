@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://cnx8k5ic8qrto"
+path="res://.godot/imported/char_336_folivo_wild_11.skel-1db2b1c4b2dfb911f8da9207435ce3cd.spskel"
+
+[deps]
+
+source_file="res://animations/characters/necrobinder/char_336_folivo_wild_11.skel"
+dest_files=["res://.godot/imported/char_336_folivo_wild_11.skel-1db2b1c4b2dfb911f8da9207435ce3cd.spskel"]
+
+[params]
+

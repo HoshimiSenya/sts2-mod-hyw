@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://jhsha2rxyjgm"
+path="res://.godot/imported/chr_huiliyi001.skel-0f05be4a270d1e7dc9021cdffd317688.spskel"
+
+[deps]
+
+source_file="res://animations/characters/ironclad/chr_huiliyi001.skel"
+dest_files=["res://.godot/imported/chr_huiliyi001.skel-0f05be4a270d1e7dc9021cdffd317688.spskel"]
+
+[params]
+

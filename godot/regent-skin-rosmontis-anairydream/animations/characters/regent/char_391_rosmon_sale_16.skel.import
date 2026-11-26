@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://b07o3pcmj1qgn"
+path="res://.godot/imported/char_391_rosmon_sale_16.skel-b2169cc73f6db2383191afe96a006fd7.spskel"
+
+[deps]
+
+source_file="res://animations/characters/regent/char_391_rosmon_sale_16.skel"
+dest_files=["res://.godot/imported/char_391_rosmon_sale_16.skel-b2169cc73f6db2383191afe96a006fd7.spskel"]
+
+[params]
+

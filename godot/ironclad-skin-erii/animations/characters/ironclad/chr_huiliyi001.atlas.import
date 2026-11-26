@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://byj1p7hw5fs2d"
+path="res://.godot/imported/chr_huiliyi001.atlas-cb5f3e3ae8c0b510469315f1b8f54639.spatlas"
+
+[deps]
+
+source_file="res://animations/characters/ironclad/chr_huiliyi001.atlas"
+dest_files=["res://.godot/imported/chr_huiliyi001.atlas-cb5f3e3ae8c0b510469315f1b8f54639.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

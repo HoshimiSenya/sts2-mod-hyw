@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://3lpngvlfasqh"
+path="res://.godot/imported/enemy_1503_talula.skel-558dda9d7f94048f92979c351685166a.spskel"
+
+[deps]
+
+source_file="res://animations/characters/ironclad/enemy_1503_talula.skel"
+dest_files=["res://.godot/imported/enemy_1503_talula.skel-558dda9d7f94048f92979c351685166a.spskel"]
+
+[params]
+

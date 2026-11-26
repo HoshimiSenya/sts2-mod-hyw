@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://cecichlj7e7lu"
+path="res://.godot/imported/char_497_ctable.atlas-dbfa3f67753bc2b8561d2fdee660f35d.spatlas"
+
+[deps]
+
+source_file="res://animations/characters/silent/char_497_ctable.atlas"
+dest_files=["res://.godot/imported/char_497_ctable.atlas-dbfa3f67753bc2b8561d2fdee660f35d.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

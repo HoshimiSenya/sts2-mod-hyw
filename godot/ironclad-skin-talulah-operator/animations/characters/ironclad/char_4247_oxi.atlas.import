@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://81cv1hh03k5p"
+path="res://.godot/imported/char_4247_oxi.atlas-1d5dae2c828525f5e4f06f232808ffec.spatlas"
+
+[deps]
+
+source_file="res://animations/characters/ironclad/char_4247_oxi.atlas"
+dest_files=["res://.godot/imported/char_4247_oxi.atlas-1d5dae2c828525f5e4f06f232808ffec.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

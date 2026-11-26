@@ -1,0 +1,8 @@
+[gd_resource type="SpineSkeletonDataResource" load_steps=3 format=3 uid="uid://bwy64xob7yupw"]
+
+[ext_resource type="SpineAtlasResource" uid="uid://bwd4ceujokm3u" path="res://animations/merchant/silent/build_char_2012_typhon.atlas" id="1_nk6m8"]
+[ext_resource type="SpineSkeletonFileResource" uid="uid://cspdw38b6wpqh" path="res://animations/merchant/silent/build_char_2012_typhon.skel" id="2_tq7pk"]
+
+[resource]
+atlas_res = ExtResource("1_nk6m8")
+skeleton_file_res = ExtResource("2_tq7pk")

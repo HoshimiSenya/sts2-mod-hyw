@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://coobig0aigrao"
+path="res://.godot/imported/build_char_4244_tocka.atlas-2d455c5a151c7209e88964b785ce842f.spatlas"
+
+[deps]
+
+source_file="res://animations/merchant/fool/build_char_4244_tocka.atlas"
+dest_files=["res://.godot/imported/build_char_4244_tocka.atlas-2d455c5a151c7209e88964b785ce842f.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

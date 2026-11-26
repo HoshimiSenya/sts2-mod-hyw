@@ -1,0 +1,37 @@
+[gd_scene load_steps=3 format=3 uid="uid://ptweu5islcoi"]
+
+[ext_resource type="Texture2D" uid="uid://bdd56f8gvvlfh" path="res://animations/character_select/defect/Goldenglow_SummerFlowers.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://6afv2nqmo6aa" path="res://animations/character_select/defect/Scene_Holiday.png" id="1_g34c2"]
+
+[node name="DefectBg" type="Control"]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -960.0
+offset_top = -540.0
+offset_right = 1600.0
+offset_bottom = 660.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(1280, 600)
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = -14.999939
+offset_top = -25.99997
+offset_right = 1805.0
+offset_bottom = 998.0
+scale = Vector2(1.93, 1.93)
+texture = ExtResource("1_g34c2")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_top = -453.0
+offset_right = 2048.0
+offset_bottom = 1595.0
+scale = Vector2(1.055, 1.055)
+texture = ExtResource("1")
+metadata/_edit_group_ = true

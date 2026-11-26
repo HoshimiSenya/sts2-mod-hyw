@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://btc1knkf8m3vw"
+path="res://.godot/imported/char_336_folivo_wild_11.atlas-9f9a9f5e457e6cb86fd7352ea6041214.spatlas"
+
+[deps]
+
+source_file="res://animations/characters/necrobinder/char_336_folivo_wild_11.atlas"
+dest_files=["res://.godot/imported/char_336_folivo_wild_11.atlas-9f9a9f5e457e6cb86fd7352ea6041214.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

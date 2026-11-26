@@ -1,0 +1,41 @@
+[gd_scene load_steps=3 format=3 uid="uid://b0832bgvb13p1"]
+
+[ext_resource type="Script" uid="uid://cghtlla3sw0po" path="res://src/Core/Nodes/Combat/NCreatureVisuals.cs" id="1_j80du"]
+[ext_resource type="SpineSkeletonDataResource" uid="uid://uymfsfgjcwim" path="res://animations/characters/ironclad/ironclad_skel_data.tres" id="2_j80du"]
+
+[node name="Ironclad" type="Node2D"]
+script = ExtResource("1_j80du")
+metadata/_edit_group_ = true
+
+[node name="FormVfx" type="Control" parent="."]
+unique_name_in_owner = true
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Visuals" type="SpineSprite" parent="."]
+unique_name_in_owner = true
+scale = Vector2(0.725, 0.725)
+skeleton_data_res = ExtResource("2_j80du")
+preview_skin = "Default"
+preview_animation = "idle_loop"
+preview_frame = false
+preview_time = 0.0
+
+[node name="Bounds" type="Control" parent="."]
+unique_name_in_owner = true
+layout_mode = 3
+anchors_preset = 0
+offset_left = -122.0
+offset_top = -292.00003
+offset_right = 120.0
+offset_bottom = -12.0000305
+scale = Vector2(1, 1.0800012)
+mouse_filter = 2
+
+[node name="CenterPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(7, -157)
+
+[node name="IntentPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(16, -319)

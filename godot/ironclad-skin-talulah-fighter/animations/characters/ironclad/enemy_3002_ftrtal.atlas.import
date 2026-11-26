@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://dcheif7wkqbnu"
+path="res://.godot/imported/enemy_3002_ftrtal.atlas-8a9a9b7f83016b67818d4359e4916b10.spatlas"
+
+[deps]
+
+source_file="res://animations/characters/ironclad/enemy_3002_ftrtal.atlas"
+dest_files=["res://.godot/imported/enemy_3002_ftrtal.atlas-8a9a9b7f83016b67818d4359e4916b10.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

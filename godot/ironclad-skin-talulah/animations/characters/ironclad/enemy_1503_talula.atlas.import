@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://bru1wws3kqhbn"
+path="res://.godot/imported/enemy_1503_talula.atlas-baf1c4063bf9d9fac065496d656c5793.spatlas"
+
+[deps]
+
+source_file="res://animations/characters/ironclad/enemy_1503_talula.atlas"
+dest_files=["res://.godot/imported/enemy_1503_talula.atlas-baf1c4063bf9d9fac065496d656c5793.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

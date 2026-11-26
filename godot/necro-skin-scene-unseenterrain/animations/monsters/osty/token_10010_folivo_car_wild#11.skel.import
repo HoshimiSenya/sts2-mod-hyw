@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://sq5iqojiygwj"
+path="res://.godot/imported/token_10010_folivo_car_wild#11.skel-46a4dfe792d004df7cc843c7768bad98.spskel"
+
+[deps]
+
+source_file="res://animations/monsters/osty/token_10010_folivo_car_wild#11.skel"
+dest_files=["res://.godot/imported/token_10010_folivo_car_wild#11.skel-46a4dfe792d004df7cc843c7768bad98.spskel"]
+
+[params]
+

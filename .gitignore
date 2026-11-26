@@ -1,0 +1,23 @@
+# ===== Godot 导入缓存与编辑器状态（可再生成，勿提交）=====
+.godot/
+**/.godot/
+
+# ===== GDRE 自动转换中间产物 =====
+.autoconverted/
+**/.autoconverted/
+
+# ===== GDRE 导出日志（含本机绝对路径与用户名）=====
+gdre_export.log
+*.log
+
+# ===== .NET 构建产物 =====
+.godot/mono/
+bin/Debug/
+bin/Release/
+obj/
+*.user
+
+# ===== 系统垃圾文件 =====
+Thumbs.db
+desktop.ini
+.DS_Store

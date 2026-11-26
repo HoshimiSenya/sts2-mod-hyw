@@ -1,0 +1,56 @@
+[gd_scene load_steps=4 format=3 uid="uid://bssv3yaw1l65i"]
+
+[ext_resource type="Script" uid="uid://b75hptlu1tt4s" path="res://src/Core/Nodes/RestSite/NRestSiteCharacter.cs" id="1"]
+[ext_resource type="SpineSkeletonDataResource" uid="uid://c5sgv637rmdxo" path="res://animations/rest_site/necrobinder/rest_site_necrobinder_skel_data.tres" id="2_6ebk3"]
+[ext_resource type="PackedScene" uid="uid://bgy88bk44xxvk" path="res://scenes/ui/selection_reticle.tscn" id="5"]
+
+[node name="NecrobinderRestSite" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Necro" type="SpineSprite" parent="."]
+position = Vector2(6.5789, -10.5262)
+scale = Vector2(0.85, 0.85)
+skeleton_data_res = ExtResource("2_6ebk3")
+preview_skin = "Default"
+preview_animation = "glory_loop"
+preview_frame = false
+preview_time = 0.0
+
+[node name="ControlRoot" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_top = -64.0
+offset_bottom = -64.0
+scale = Vector2(0.865, 0.865)
+
+[node name="SelectionReticle" parent="ControlRoot" instance=ExtResource("5")]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = -205.0
+offset_top = -453.0
+offset_right = 242.0
+offset_bottom = 284.0
+
+[node name="Hitbox" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_left = -191.0
+offset_top = -446.0
+offset_right = 237.0
+offset_bottom = 280.0
+
+[node name="ThoughtBubbleRight" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_left = 127.631
+offset_top = -356.576
+offset_right = 127.631
+offset_bottom = -356.576
+
+[node name="ThoughtBubbleLeft" type="Control" parent="ControlRoot"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_left = -172.367
+offset_top = -342.103
+offset_right = -172.367
+offset_bottom = -342.103

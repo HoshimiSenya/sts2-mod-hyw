@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://bq25oayf72sgl"
+path="res://.godot/imported/build_char_497_ctable.skel-60e77e98ef2ac37ef21bd084109bac7f.spskel"
+
+[deps]
+
+source_file="res://animations/merchant/silent/build_char_497_ctable.skel"
+dest_files=["res://.godot/imported/build_char_497_ctable.skel-60e77e98ef2ac37ef21bd084109bac7f.spskel"]
+
+[params]
+

@@ -1,0 +1,8 @@
+[gd_resource type="SpineSkeletonDataResource" load_steps=3 format=3 uid="uid://dmerprdwk4o80"]
+
+[ext_resource type="SpineAtlasResource" uid="uid://btc1knkf8m3vw" path="res://animations/characters/necrobinder/char_336_folivo_wild_11.atlas" id="1_lowh1"]
+[ext_resource type="SpineSkeletonFileResource" uid="uid://cnx8k5ic8qrto" path="res://animations/characters/necrobinder/char_336_folivo_wild_11.skel" id="2_lowh1"]
+
+[resource]
+atlas_res = ExtResource("1_lowh1")
+skeleton_file_res = ExtResource("2_lowh1")

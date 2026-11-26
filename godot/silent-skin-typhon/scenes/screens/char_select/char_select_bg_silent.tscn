@@ -1,0 +1,38 @@
+[gd_scene load_steps=3 format=3 uid="uid://eu8ap1ou5ucm"]
+
+[ext_resource type="Texture2D" uid="uid://dyh3l3kix5ea1" path="res://animations/character_select/silent/Typhon.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://d0slx71fitbqd" path="res://animations/character_select/silent/Scene_Ruins.png" id="1_tdsn3"]
+
+[node name="SilentBg" type="Control"]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -960.0
+offset_top = -521.0
+offset_right = 1600.0
+offset_bottom = 679.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(1280, 600)
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = -1217.0
+offset_top = -135.00006
+offset_right = 603.0
+offset_bottom = 888.99994
+scale = Vector2(2.21, 2.21)
+texture = ExtResource("1_tdsn3")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = -796.0
+offset_top = -409.99997
+offset_right = 2308.6694
+offset_bottom = 1638.0
+scale = Vector2(1.12, 1.12)
+texture = ExtResource("1")
+stretch_mode = 5
