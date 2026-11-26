@@ -1,5 +1,12 @@
 [中文](README.md) | English
 
+[![Game](https://img.shields.io/badge/Game-Slay%20the%20Spire%202-B3202E)](https://store.steampowered.com/app/2868840)
+[![Mods](https://img.shields.io/badge/Mods-11-FF8C00)](#mod-list)
+[![Godot](https://img.shields.io/badge/Godot-4.5%20%28.NET%29-478CBF?logo=godotengine&logoColor=white)](https://godotengine.org)
+[![Spine](https://img.shields.io/badge/Spine-3.8.75%20%2F%204.2.x-FF7A00)](https://esotericsoftware.com)
+[![Downloads](https://img.shields.io/github/downloads/HoshimiSenya/sts2-mod-hyw/total?label=downloads&color=success)](https://github.com/HoshimiSenya/sts2-mod-hyw/releases)
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-Browse-1B2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199036683806/myworkshopfiles/?appid=2868840)
+
 A personal collection of skin mods for *Slay the Spire 2*, replacing the original character models and some art assets with characters from other works.
 
 The collection draws assets from multiple works; see the list below for details.
