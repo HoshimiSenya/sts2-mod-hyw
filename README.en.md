@@ -1,8 +1,10 @@
 <p align="center"><a href="README.md">中文</a> | English</p>
 
-[![Game](https://img.shields.io/badge/Game-Slay%20the%20Spire%202-B3202E)](https://store.steampowered.com/app/2868840)
-[![Godot](https://img.shields.io/badge/Godot-4.5%20%28.NET%29-478CBF?logo=godotengine&logoColor=white)](https://godotengine.org)
-[![Spine](https://img.shields.io/badge/Spine-3.8.75%20%2F%204.2.x-FF7A00)](https://esotericsoftware.com)
+<p align="center">
+  <a href="https://store.steampowered.com/app/2868840"><img src="https://img.shields.io/badge/Game-Slay%20the%20Spire%202-B3202E" alt="Game"></a>
+  <a href="https://godotengine.org"><img src="https://img.shields.io/badge/Godot-4.5%20%28.NET%29-478CBF?logo=godotengine&amp;logoColor=white" alt="Godot"></a>
+  <a href="https://esotericsoftware.com"><img src="https://img.shields.io/badge/Spine-3.8.75%20%2F%204.2.x-FF7A00" alt="Spine"></a>
+</p>
 
 A collection of skin mods for *Slay the Spire 2* from the Steam Workshop collection "何忆卫" (Heyiwei), plus additional standalone mods, including the original Godot projects and Spine sources.
 
