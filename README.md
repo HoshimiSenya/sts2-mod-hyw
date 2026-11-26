@@ -4,9 +4,7 @@
 
 合集内素材来源于多个作品，**并非全部为《明日方舟》**，具体见下方清单。
 
-本仓库是**制作工程**（Godot 工程 + Spine 源文件），不是可直接使用的 release。想直接玩的请访问创意工坊：
-
-**https://steamcommunity.com/profiles/76561199036683806/myworkshopfiles/?appid=2868840**
+本仓库是**制作工程**（Godot 工程 + Spine 源文件），不是可直接使用的 release。想直接玩的请前往 [创意工坊](https://steamcommunity.com/profiles/76561199036683806/myworkshopfiles/?appid=2868840)。
 
 - 引擎：Godot **4.5** (.NET / Mono)，渲染后端 Forward Plus
 
@@ -37,19 +35,19 @@ Project/
 
 ## 模组清单
 
-| # | Godot 工程目录 | 模组 ID / Spine 目录 | 游戏内名称 | 角色 | 素材来源 | 版本 |
-|---|---|---|---|---|---|---|
-| 1 | `defect-skin-goldenglow-summerflowers` | `DefectSkin_Goldenglow_SummerFlowers` | 【故障机器人皮肤】澄闪（夏卉） | 故障机器人 | 明日方舟 | 0.5.0 |
-| 2 | `fool-skin-naiyu` | `FoolSkin_Naiyu` / *（无 Spine 源）* | 【愚者皮肤】奶愚 | 愚者 | 奶蛙 | 0.1.0 |
-| 3 | `fool-skin-tocka` | `FoolSkin_Tocka` | 【愚者皮肤】冻河 | 愚者 | 明日方舟 | 0.2.0 |
-| 4 | `ironclad-skin-erii` | `IroncladSkin_Erii` | 【铁甲战士皮肤】绘梨衣 | 铁甲战士 | 卡塞尔之门 | 0.1.0 |
-| 5 | `ironclad-skin-talulah` | `IroncladSkin_Talulah` | 【铁甲战士皮肤】塔露拉 | 铁甲战士 | 明日方舟 | 0.8.0 |
-| 6 | `ironclad-skin-talulah-fighter` | `IroncladSkin_Talulah_Fighter` | 【铁甲战士皮肤】塔露拉（斗士） | 铁甲战士 | 明日方舟 | 0.5.0 |
-| 7 | `ironclad-skin-talulah-operator` | `IroncladSkin_Talulah_Operator` | 【铁甲战士皮肤】塔露拉（干员） | 铁甲战士 | 明日方舟 | 0.3.0 |
-| 8 | `necro-skin-scene-unseenterrain` | `NecroSkin_Scene_UnseenTerrain` | 【亡灵契约师皮肤】稀音（新地形） | 亡灵契约师 | 明日方舟 | 0.4.0 |
-| 9 | `regent-skin-rosmontis-anairydream` | `RegentSkin_Rosmontis_AnAiryDream` | 【储君皮肤】迷迭香（轻盈一梦） | 储君 | 明日方舟 | 0.6.0 |
-| 10 | `silent-skin-cantabile` | `SilentSkin_Cantabile` | 【静默猎手皮肤】晓歌 | 静默猎手 | 明日方舟 | 0.5.0 |
-| 11 | `silent-skin-typhon` | `SilentSkin_Typhon` | 【静默猎手皮肤】提丰 | 静默猎手 | 明日方舟 | 0.2.0 |
+| # | Godot 工程目录 | 模组 ID / Spine 目录 | 游戏内名称 | 素材来源 | 版本 |
+|---|---|---|---|---|---|
+| 1 | `defect-skin-goldenglow-summerflowers` | `DefectSkin_Goldenglow_SummerFlowers` | 【故障机器人皮肤】澄闪（夏卉） | 明日方舟 | 0.5.0 |
+| 2 | `fool-skin-naiyu` | `FoolSkin_Naiyu` / *（无 Spine 源）* | 【愚者皮肤】奶愚 | 奶蛙 | 0.1.0 |
+| 3 | `fool-skin-tocka` | `FoolSkin_Tocka` | 【愚者皮肤】冻河 | 明日方舟 | 0.2.0 |
+| 4 | `ironclad-skin-erii` | `IroncladSkin_Erii` | 【铁甲战士皮肤】绘梨衣 | 卡塞尔之门 | 0.1.0 |
+| 5 | `ironclad-skin-talulah` | `IroncladSkin_Talulah` | 【铁甲战士皮肤】塔露拉 | 明日方舟 | 0.8.0 |
+| 6 | `ironclad-skin-talulah-fighter` | `IroncladSkin_Talulah_Fighter` | 【铁甲战士皮肤】塔露拉（斗士） | 明日方舟 | 0.5.0 |
+| 7 | `ironclad-skin-talulah-operator` | `IroncladSkin_Talulah_Operator` | 【铁甲战士皮肤】塔露拉（干员） | 明日方舟 | 0.3.0 |
+| 8 | `necro-skin-scene-unseenterrain` | `NecroSkin_Scene_UnseenTerrain` | 【亡灵契约师皮肤】稀音（新地形） | 明日方舟 | 0.4.0 |
+| 9 | `regent-skin-rosmontis-anairydream` | `RegentSkin_Rosmontis_AnAiryDream` | 【储君皮肤】迷迭香（轻盈一梦） | 明日方舟 | 0.6.0 |
+| 10 | `silent-skin-cantabile` | `SilentSkin_Cantabile` | 【静默猎手皮肤】晓歌 | 明日方舟 | 0.5.0 |
+| 11 | `silent-skin-typhon` | `SilentSkin_Typhon` | 【静默猎手皮肤】提丰 | 明日方舟 | 0.2.0 |
 
 模组 ID 同时是游戏 `mods/` 下的目录名，以及 `.pck` / `.json` 的文件名前缀。
 
@@ -63,7 +61,27 @@ Project/
 
 仓库**不含** `spine_godot_extension.gdextension`。游戏本体自带 `libspine_godot.windows.template_release.x86_64.dll`，但 Godot 编辑器打开本工程时仍需可用的 spine-godot 插件，否则 `.skel` / `.atlas` 导入会失败（报 `Failed to find gdextension libraries for plugin res://bin/spine_godot_extension.gdextension`）。
 
-### 2. 部分工程脚本为占位文件
+### 2. Spine 版本需要转换
+
+**两处目录里的 Spine 资源不是同一个版本**，这是修改美术资源时最容易踩的坑：
+
+| 位置 | Spine 版本 | 说明 |
+|---|---|---|
+| `spine/**.spine` | **3.8.75** | 可编辑的源工程，用 Spine 3.8.75 打开 |
+| `godot/**.skel` `**.atlas` | **4.2.x**（多为 4.2.00） | 运行时数据，必须与游戏内置的 spine-godot 扩展匹配 |
+
+游戏使用的 Spine 运行时是 **4.2.x**，所以完整流程是：
+
+```
+Spine 3.8.75 编辑 .spine 工程  →  导出 .skel / .atlas
+    →  转换到 4.2.x  →  放入 godot 工程使用
+```
+
+两个方向的版本错配都会失败：直接用新版 Spine 打开 3.8.75 的 `.spine` 会提示升级工程（且不可逆），而把 3.8.75 的导出结果直接丢进 Godot 则导入报错。
+
+改完资源后，请把新的 `.spine`（3.8.75）与转换后的 `.skel` / `.atlas`（4.2.x）**成对更新**，不要只更新一边。
+
+### 3. 部分工程脚本为占位文件
 
 以下两个工程的 `src/**.cs` 全部为 **1 字节空文件**：
 
