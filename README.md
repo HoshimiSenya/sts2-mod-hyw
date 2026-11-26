@@ -7,7 +7,7 @@
 [![Downloads](https://img.shields.io/github/downloads/HoshimiSenya/sts2-mod-hyw/total?label=downloads&color=success)](https://github.com/HoshimiSenya/sts2-mod-hyw/releases)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-Browse-1B2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199036683806/myworkshopfiles/?appid=2868840)
 
-个人制作的《杀戮尖塔 2》皮肤模组合集，把原版角色模型与部分美术资源替换为其他作品中的角色。
+《杀戮尖塔 2》Steam 创意工坊模组合集「何忆卫」及其他独立模组，包含原始 Godot 工程与 Spine 资源。
 
 合集内素材来源于多个作品，具体见下方清单。
 

@@ -7,7 +7,7 @@
 [![Downloads](https://img.shields.io/github/downloads/HoshimiSenya/sts2-mod-hyw/total?label=downloads&color=success)](https://github.com/HoshimiSenya/sts2-mod-hyw/releases)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-Browse-1B2838?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199036683806/myworkshopfiles/?appid=2868840)
 
-A personal collection of skin mods for *Slay the Spire 2*, replacing the original character models and some art assets with characters from other works.
+A collection of skin mods for *Slay the Spire 2* from the Steam Workshop collection "何忆卫" (Heyiwei), plus additional standalone mods, including the original Godot projects and Spine sources.
 
 The collection draws assets from multiple works; see the list below for details.
 
