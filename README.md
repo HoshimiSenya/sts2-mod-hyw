@@ -1,4 +1,4 @@
-中文 | [English](README.en.md)
+<p align="center">中文 | <a href="README.en.md">English</a></p>
 
 [![Game](https://img.shields.io/badge/Game-Slay%20the%20Spire%202-B3202E)](https://store.steampowered.com/app/2868840)
 [![Godot](https://img.shields.io/badge/Godot-4.5%20%28.NET%29-478CBF?logo=godotengine&logoColor=white)](https://godotengine.org)
