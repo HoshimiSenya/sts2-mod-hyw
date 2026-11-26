@@ -4,7 +4,7 @@
 
 合集内素材来源于多个作品，具体见下方清单。
 
-本仓库是**制作工程**（Godot 工程 + Spine 源文件），不是可直接使用的 release。想直接玩的请前往 [创意工坊](https://steamcommunity.com/profiles/76561199036683806/myworkshopfiles/?appid=2868840)。
+本仓库是**制作工程**（Godot 工程 + Spine 源文件），不是可直接使用的 release。想直接玩的可以前往 [创意工坊](https://steamcommunity.com/profiles/76561199036683806/myworkshopfiles/?appid=2868840)，也可以在 [Releases](https://github.com/HoshimiSenya/sts2-mod-hyw/releases) 页面自行下载安装。
 
 - 引擎：Godot **4.5** (.NET / Mono)，渲染后端 Forward Plus
 
@@ -120,46 +120,6 @@ mods/<模组ID>/<模组ID>.json
   "affects_gameplay": false
 }
 ```
-
----
-
-## Release 发布规则
-
-模组成品发布在本仓库的 [Releases](https://github.com/HoshimiSenya/sts2-mod-hyw/releases) 页面，一个模组版本对应一个 Release。
-
-**命名规则**
-
-| 字段 | 格式 | 示例 |
-|---|---|---|
-| Tag | `<模组ID>-v<版本>` | `FoolSkin_Tocka-v0.2.0` |
-| Release 标题 | `<模组ID> v<版本>` | `FoolSkin_Tocka v0.2.0` |
-| 附件名 | `<模组ID>.zip` | `FoolSkin_Tocka.zip` |
-
-**附件内容**
-
-zip 内为可直接放入游戏的两个文件，不含目录层级：
-
-```
-<模组ID>.json     模组清单
-<模组ID>.pck      模组本体
-```
-
-**Release 说明**
-
-正文放本次发布包含的模组清单，三列：
-
-```markdown
-## 模组清单
-
-| 模组 ID | 游戏内名称 | 版本 |
-|---|---|---|
-| FoolSkin_Tocka | 【愚者皮肤】冻河 | 0.2.0 |
-```
-
-**说明**
-
-- Release 的 tag 只用于版本标识，指向 `main` 当前提交，不与代码提交一一对应；代码更新不会自动产生新 Release。
-- 只有已构建完成、可投放使用的模组才发 Release；尚在制作中的不进 Release。
 
 ---
 
